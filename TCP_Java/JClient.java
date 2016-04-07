@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-class TCPClient
+class JClient
 {
   public static void main(String argv[]) throws Exception
    {
